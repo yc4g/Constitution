@@ -9,7 +9,7 @@ Yale Code4Good is Yale's first undergraduate organizaton that harnesses students
 In addition to these tangible projects, we also want to change the way that techies think of the public sphere. We are working with other organizations that share our mission, both locally and across the country, to coordinate events, hackathons, and fellowships that introduce students to the extent of what is possible when you code for good.
 
 ## MISSION STATEMENT
-Code4Good seeks to develop technical solutions faces by the service and nonprofit communities, as well as foster enthusiasm in students to use their talents and abilities for the public good.
+Code4Good seeks to develop technical solutions faced by the service and nonprofit communities, as well as foster enthusiasm in students to use their talents and abilities for the public good.
 
 ## GOALS
 1. Learn about problems faced by the nonprofit and government communities, and devise with them innovative solutions using technology.
