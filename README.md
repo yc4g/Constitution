@@ -1,44 +1,37 @@
-### Yale Code4Good
+### Code4Good
 
 # Constitution
-### Last updated: 2017 October 08
+### Last updated: 2018 August 28
 
 ## WHO WE ARE
-Yale Code4Good is Yale's first undergraduate organizaton that harnesses students' technical skills to create positive social impact. We work with local nonprofits and public agencies to pinpoint their most pressing technical needs and scope viable, sustainable student projects that address them.  
+Yale Code4Good is Yale's first undergraduate organizaton that harnesses students' technical skills to create positive social impact. We work with nonprofits and public agencies to pinpoint their most pressing technical needs and scope viable, sustainable student projects that address them.  
 
-In addition to these tangible projects, we also want to change the way that techies think of the public sphere. We are working with other organizations that share our mission, both locally and across the country, to coordinate events, hackathons, and fellowships that introduce students to the extent of what is possible when you code for good.
+In addition to these projects, we also want to change the way student techies think of the public sphere. We are working with other organizations that share our mission, both locally and across the country, to coordinate events, hackathons, and fellowships that introduce students to the extent of what is possible when you code for good.
 
 ## MISSION STATEMENT
 Code4Good seeks to develop technical solutions faced by the service and nonprofit communities, as well as foster enthusiasm in students to use their talents and abilities for the public good.
 
 ## GOALS
 1. Learn about problems faced by the nonprofit and government communities, and devise with them innovative solutions using technology.
-    * Establish working relationships with local nonprofits and public agencies
-    * Determine projects of reasonable scale and support student developers in their work on each project
-    * We actively involve community groups and those with subject matter expertise in the decision-making process
+    * Establish working relationships with nonprofits and public agencies.
+    * Determine projects of reasonable scale and support student developers in their work on each project.
+    * Actively involve community groups and those with subject matter expertise in the technical development process.
 2. Promote passion for innovation and service in the Yale community and beyond.
     * Value the lasting impact of involvement on each member of Code4Good.
     * Partner with Yale academic departments and student groups when possible, to integrate service into the growing coding culture on campus.
     * Maintain dialogue and mutual support with similar groups at other campuses.
 
 ## ORGANIZATIONAL VALUES & CODES OF CONDUCT
-The Yale Code4Good Community expects that Yale Code4Good activities and events:
+The Yale Code4Good community expects that:
 
-1. Are a safe and respectful environment for all participants and will not tolerate harassment or discrimination of any kind.
-2. Are a place where people are free to fully express their identities.
-3. Presume the value of others. Everyone’s ideas, skills, and contributions have value.
-4. Don’t assume everyone has the same context, and encourage questions.
-5. Find a way for people to be productive with their skills (technical and not) and energy.
-6. Use language such as “yes/and”, not “no/but.”
-7. Encourage members and participants to listen as much as they speak.
-8. Strive to build tools that are open and free technology that others can use freely to improve their community also. Activities that aim to foster public use, not for private gain, are prioritized.
-9. Prioritize access for and input from those who are traditionally excluded from the civic process.
-10. Work to ensure that all demographics present in the community are represented.
-11. Actively involve community groups and those with subject matter expertise in the decision-making process.
-12. Ensure that the relationships and conversations between community members, the local government staff and community partners remain respectful, participatory, and productive.
-13. Provide an environment where people are not subjected to discrimination or harassment.
-14. We are nonpartisan and do not endorse candidates for elected office.
-15. We prize diversity and inclusion amongst our members, our leaders, and our stakeholders.
+1. All Code4Good events will be safe and respectful environments for all participants and will not tolerate harassment or discrimination of any kind.
+2. All Code4Good events will be spaces where people are free to fully express their identities.
+3. All Code4Good members will value the contributions, ideas, and skils of others and will not assume that everyone has the same context.
+4. Code4Good members will strive to build tools that are open source as often as possible so that others can use freely to improve their own communities.
+5. Code4Good will prioritize access for and input from those who are traditionally excluded from the civic process.
+6. Code4Good will include community groups and those with subject matter expertise in the development process as often as possible.
+7. Code4Good will ensure that the relationships and conversations between community members, local government staff, and community partners remain respectful, participatory, and productive.
+8. Code4Good is nonpartisan and non-secular. The organization does not endorse candidates for elected office or religious leaders.
 
 ## ORGANIZATION STRUCTURE
 ### Leadership / Board
@@ -123,35 +116,22 @@ This serves as a guideline for the regular operation of the group, and establish
 Board Meetings shall be held weekly, and are led by the sitting presidents.
 
 Each officer must:
-* Fill out the weekly task completion form (managed by presidents)
 * Let others know if you can't make the weekly meeting at least 48 hours in advance
 * Schedule a meeting with other officers to discuss your work upon missing 3+ meetings
 
 ### Timely Task Completion
-Officers should schedule time after weekly meetings to work on tasks together when relevant. The president manages a Google form collecting weekly task update information, which should be submitted by all officers by the Saturday night prior to the meeting. When new tasks are established, certain tasks should be due earlier in the week (as opposed to the next meeting, and especially in regards to contacting people) so we can have timely responses and dialogue to discuss in the next meeting.
+Officers should schedule time after weekly meetings to work on tasks together when relevant. When new tasks are established, certain tasks should be due earlier in the week (as opposed to the next meeting, and especially in regards to contacting people) so we can have timely responses and dialogue to discuss in the next meeting.
 
 ### Monthly All Hands Meetings
 All Hands Meetings will be held monthly and may be attend by any member of Code4Good or greater Yale and New Haven communities.
 
 Technical Teams must arrange to present on the status of their projects each All Hands Meeting, unless decided otherwise by the Co-Presidents and Director(s) of Projects.
 
-All Hands Meetings must begin with a statement our mission statement, organizational values, and codes of conduct.
-
 A portion of the meeting must be dedicated to allow any member or member of the greater Yale and New Haven communities to pitch suggestions or ideas for projects for Yale Code4Good to be involved in. The Co-Presidents may decide the additional terms and timeline of this discussion in any manner they see best fits the situation.
 
-### Timely Task Completion
-Board members should schedule time after weekly meetings to work on tasks together when relevant. The president manages a Google form collecting weekly task update information, which should be submitted by all officers by the Friday night prior to the meeting. When new tasks are established, certain tasks should be due earlier in the week (as opposed to the next meeting, and especially in regards to contacting people) so we can have timely responses and dialogue to discuss in the next meeting.
-
-### Culture
+### Summary
 Code4Good, especially as a student organization involved with work in the public sphere, values openness. This should be reflected in its group structure, dialogue among members, and communications with those outside the organization or Yale itself. In this manner, leadership should always be candid about the reasons behind their decisions. Furthermore, all projects created by Code4Good teams should be kept as open source, unless this conflicts with the best interest of Yale Code4Good or a partner organization as decided by the Co-Presidents.
 
 It is equally as important for Code4Good to facilitate strong connections between its members. There should be regular social events to build lasting friendships within the organization as well as good working relationships. The most important resource in any group is its people, and the culture of Code4Good should encourage members to invest time in learning more about each other.
-
-## Initiatives & Milestones
-At the beginning of each Board Term, the Board will draft an outline for the term’s main initiatives and milestones. See below for example categories.
-* Technical Team Projects
-* Course Final Projects
-* Hackathon Partnerships
-* Community Events
 
 <!--done.-->
